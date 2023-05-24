@@ -1,0 +1,37 @@
+[
+  {
+    "u_id": 0,
+    "author": "Omkar Godbole",
+    "title": "Bulls Exit BitMEX Bitcoin Futures Market",
+    "description": "Since the announcement from U.S. regulators, BitMEX has witnessed an outflow of more than 40,000 bitcoins, currently worth more than $422 million.",
+    "imageUrl": "https://static.euronews.com/articles/stories/07/62/29/02/773x435_cmsv2_6257114f-f4f6-59ca-9e32-b188509ca2f2-7622902.jpg"
+  },
+  {
+    "u_id": 1,
+    "author": "Benjamin Pirus",
+    "title": "Coinbase customers can now dodge a bank",
+    "description": "New update from Coinbase quickens the transmutation of crypto into fiat. Coinbase has unveiled a faster way for its customers to move digital currencies out of crypto and into their bank accounts.",
+    "imageUrl": "https://static.euronews.com/articles/stories/07/61/64/66/773x435_cmsv2_25979378-bfcd-5717-8f10-23c7dc384ea9-7616466.jpg"
+  },
+  {
+    "u_id": 2,
+    "author": "Malwarebytes Labs",
+    "title": "VideoBytes: Ransomware gets wasted!",
+    "description": "On today's VideoBytes, we look at how ransomware is on the rise, attacking corporations with malware that not only encrypts files, but also steals it.",
+    "imageUrl": "https://static.euronews.com/articles/stories/07/61/97/94/773x435_cmsv2_0d46a9af-9dfa-5d54-8396-912aa753362d-7619794.jpg"
+  },
+  {
+    "u_id": 3,
+    "author": "Daniel Sparks",
+    "title": "Why Tesla Stock Fell Sharply Friday Morning - Motley Fool",
+    "description": "Shares are down despite Tesla reporting record third-quarter deliveries. Shares of electric-car maker Tesla(NASDAQ:TSLA) fell Friday morning, declining 5% a few minutes into market open.",
+    "imageUrl": "https://static.euronews.com/articles/stories/07/61/40/82/773x435_cmsv2_7cad8e5e-0762-5d0a-a8b4-b1581139cdd1-7614082.jpg"
+  },
+  {
+    "u_id": 4,
+    "author": "Jessica Bursztynsky",
+    "title": "Twilio hits new 52-week high as stock",
+    "description": "Shares of Twilio extended its gains into Friday, reaching a 52-week high, after the company said in a filing that it expects better-than-expected third-quarter revenue.",
+    "imageUrl": "https://image.cnbcfm.com/api/v1/image/105737636-1550147305726gettyimages-1034802076rr.jpg?v=1601647142"
+  }
+]
